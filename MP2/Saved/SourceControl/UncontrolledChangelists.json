@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/woril/Downloads/CS415/MP2/Content/mp2/Blueprints/Pursue.uasset",
+				"C:/Users/woril/Downloads/CS415/MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/Maps/MP2.umap",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/Blueprints/BP_Player1.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/UI/health.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/Blueprints/healthpack.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/UI/Score.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/Blueprints/SL_BP_Pursuer.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/Blueprints/AI/EAIState.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/Blueprints/Pursuer_AIController.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/Blueprints/Pursue.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/Blueprints/EAIState.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/Blueprints/AI/target.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/UI/Gameover.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/Blueprints/SL_BP_Pursuer_AIController.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/Blueprints/SL_EN_Pursuer_AIState.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/Textures/SL_TX_Exclamation.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/Textures/SL_TX_HealthPack.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/Textures/SL_TX_HeartEmpty.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/Textures/SL_TX_HeartFull.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/Textures/SL_TX_Question.uasset",
+				"C:/Users/woril/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/mp2/Blueprints/SL_BP_Pursuer1.uasset"
+			]
+		}
+	]
+}
